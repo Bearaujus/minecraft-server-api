@@ -1,0 +1,7 @@
+# system files
+/vendor
+/.vscode
+**/.DS_Store
+
+# app
+/file
